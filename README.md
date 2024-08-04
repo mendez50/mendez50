@@ -1,24 +1,35 @@
-#WELCOME TO MY PROFILE!
-
- ![wp12850275](https://github.com/user-attachments/assets/d8e58b9d-d709-40ed-a21c-c92c17479dfd)
+# Olá! Eu sou [Mendez] 👋
 
 
+## Sobre mim
+Sou um estudante de software apaixonado por tecnologia e inovação. mas ainda tenho poucas esperienxias com programaçao
 
+- 🔭 Atualmente estou Estudando em Oscarlina De Araujo Oliveira- (http://www.educacao.sp.gov.br/cgrh/escolas/oscarlina-de-araujo-oliveira-professora/).
+- 🌱 Estou aprendendo [Tecnologia e Robotica!🤖 ].
+- 👯 Procuro colaborar em desafios interessantes.
+- 📫 Como me encontrar: [Seu Email](mailto:mendesbatista05@gmail.com).
+- fun fact ⚡ [
+Sou apaixonado por tecnologia e adoro explorar suas infinitas possibilidades.]
+## 🛠️ Habilidades
 
-<!--
-**mendez50/mendez50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![gojo-satoru](https://github.com/user-attachments/assets/dad3f![japanese-animation](https://github.com/user-attachments/assets/ddebcac9-1dbc-45a2-bec4-99649c1d901d)
-91a-193f-4342-b4a0-800f3f8fad81)
+### Linguagens de Programação
+-
+      
+### Frameworks e Ferramentas
+-
 
-Here are some ideas to get you started:
+### Banco de Dados
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![gojo-satoru](https://github.com/user-attachments/assets/4be8fc01-8984-42a8-93e1-a75540f3159d)
+## 🚀 Projetos
+ATUALMENTE NAO TENHO NENHUM PROJETO.
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+- LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seunome)
+- Twitter: [Seu Nome no Twitter](https://twitter.com/seunome)
+- Site Pessoal: [Seu Nome](https://www.seunome.com)
+
+---
+
+Espero que tenha gostado do meu perfil! Vamos conectar e colaborar em projetos futuros.
