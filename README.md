@@ -26,7 +26,7 @@ ATUALMENTE NAO TENHO NENHUM PROJETO.
 
 ## 📫 Contato
 
-- LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/MENDEZ)
+- LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seunome)
 - Twitter: [Seu Nome no Twitter](https://twitter.com/seunome)
 - Site Pessoal: [Seu Nome](https://www.seunome.com)
 
